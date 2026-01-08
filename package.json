@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "antd": "^6.1.4",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "unocss": "^66.5.12",
+    "unplugin-auto-import": "^20.3.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
