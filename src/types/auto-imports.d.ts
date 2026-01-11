@@ -19,6 +19,7 @@ declare global {
   const startTransition: typeof import('react').startTransition
   const use: typeof import('react').use
   const useActionState: typeof import('react').useActionState
+  const useApi: typeof import('../hooks/api').useApi
   const useCallback: typeof import('react').useCallback
   const useContext: typeof import('react').useContext
   const useDebugValue: typeof import('react').useDebugValue
@@ -30,10 +31,12 @@ declare global {
   const useInsertionEffect: typeof import('react').useInsertionEffect
   const useLayoutEffect: typeof import('react').useLayoutEffect
   const useMemo: typeof import('react').useMemo
+  const useModal: typeof import('../hooks/modal').useModal
   const useOptimistic: typeof import('react').useOptimistic
   const useReducer: typeof import('react').useReducer
   const useRef: typeof import('react').useRef
   const useState: typeof import('react').useState
   const useSyncExternalStore: typeof import('react').useSyncExternalStore
   const useTransition: typeof import('react').useTransition
+  const useUser: typeof import('../hooks/user').useUser
 }
