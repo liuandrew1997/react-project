@@ -1,4 +1,5 @@
-import { useFetch } from "usehooks-ts";
+
+import { useFetch } from "./fetch";
 
 const baseUrl = "https://api-v2.xdclass.net/api";
 
