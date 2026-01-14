@@ -1,0 +1,12 @@
+
+You are using Node.js 22.11.0. Vite requires Node.js version 20.19+ or 22.12+. Please upg
+You are using Node.js 22.11.0. Vite requires Node.js version 20.19+ or 22.12+. Please upgrade your Node.js version.
+7:37:29 PM [vite] (client) Re-optimizing dependencies because lockfile has changed
+
+  VITE v7.3.1  ready in 599 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  UnoCSS Inspector: http://localhost:5173/__unocss/
+  ➜  press h + enter to show help
+7:46:18 PM [vite] (client) hmr update /src/page/Index.tsx

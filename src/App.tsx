@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import Index from './page/Index'  
 
 function App() {
